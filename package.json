@@ -2,7 +2,7 @@
   "author": "Chris Strom <chris@eeecomputes.com> (http://eeecomputes.com)",
   "name": "connect-spdy",
   "description": "SPDY-ized connect server.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/eee-c/connect-spdy",
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "connect": ">=1.4.6",
-    "spdy": ">=0.0.1"
+    "spdy": ">=0.1.0"
   },
   "devDependencies": {}
 }
