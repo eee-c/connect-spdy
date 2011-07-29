@@ -10,7 +10,7 @@
  * Module dependencies.
  */
 
-var HTTPServer = require('connect').HTTPServer
+var HTTPServer = require('connect-unstable').HTTPServer
   , spdy = require('spdy');
 
 /**
