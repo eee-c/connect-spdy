@@ -1,4 +1,4 @@
-var connectCreateServer = require('connect-unstable')
+var connectCreateServer = require('connect')
   , SPDYServer = require('./spdy').Server;
 
 // Just like core connect,
