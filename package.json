@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "connect": ">=1.7.0",
-    "spdy": ">=0.1.0"
+    "spdy": ">=0.1.0 < 1.0.0"
   },
   "devDependencies": {}
 }
